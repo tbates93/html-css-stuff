@@ -96,3 +96,7 @@ div + footer {
     -o-animation:      animationer 3s infinite; /* Opera 12+ */
     animation:         animationer 3s infinite; /* IE 10+, Fx 29+ */
   }
+
+  body {
+      background-image: url('https://st2.depositphotos.com/3322803/7014/v/950/depositphotos_70147371-stock-illustration-grunge-background-seamless-pattern-repeating.jpg')
+  }
